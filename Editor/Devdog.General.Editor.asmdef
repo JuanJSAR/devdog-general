@@ -1,0 +1,17 @@
+{
+    "name": "Devdogio.General.Editor",
+    "references": [
+        "GUID:3c9e90df49b04fc4fb204f63e2018b5d"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

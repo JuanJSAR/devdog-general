@@ -1,0 +1,6 @@
+{
+  "name": "io.devdog.general",
+  "version": "1.0.0",
+  "displayName": "Devdog.io General Library",
+  "description": "The base library for the Devdog.io packages\n\n(C) 2019 Devdog.io\nUPM package by Andrea Repetto (https://github.com/andrea-repetto)"
+}
